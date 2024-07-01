@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/selamhabtewold/LeetCode/tree/master/0001-two-sum) |
+| [1293-three-consecutive-odds](https://github.com/selamhabtewold/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
