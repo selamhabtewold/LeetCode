@@ -21,6 +21,7 @@ function gcd(a, b) {
         let temp = b;
         b = a % b;
         a = temp;
+      
     }
     return a;
 }
