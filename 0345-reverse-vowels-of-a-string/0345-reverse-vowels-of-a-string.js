@@ -19,7 +19,7 @@ var reverseVowels = function(s) {
             right --;
         }
 
-    if(left < right){
+
 
         let temp = str[left];
         str[left] = str[right];
@@ -27,7 +27,7 @@ var reverseVowels = function(s) {
 
         left ++;
         right --;
-    }
+    
 
     }
 return str.join('');
