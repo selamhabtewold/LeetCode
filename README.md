@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/selamhabtewold/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/selamhabtewold/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0238-product-of-array-except-self](https://github.com/selamhabtewold/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selamhabtewold/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/selamhabtewold/LeetCode/tree/master/0605-can-place-flowers) |
 | [1293-three-consecutive-odds](https://github.com/selamhabtewold/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/selamhabtewold/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/selamhabtewold/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
